@@ -1,0 +1,14 @@
+siteTitle = "Blog by John Doe"
+siteDescr = "Rising front-end developer"
+siteAuthor = "Tomasz Trzaskoma"
+
+siteTelegramUrl = "#"
+siteTwitterUrl = "#"
+siteGithubUrl = "#przytrzask"
+siteEmailUrl = "#"
+siteRssUrl = "#"
+siteVkUrl = "#"
+
+googleAnalyticsId = ""
+
+linkPrefix = "/gatsby-starter-lumen"
