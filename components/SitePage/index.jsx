@@ -6,6 +6,7 @@ class SitePage extends React.Component {
   render() {
     const { route } = this.props;
     const post = route.page.data;
+    
 
     return (
       <div>

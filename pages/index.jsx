@@ -42,7 +42,8 @@ class SiteIndex extends React.Component {
         <div className="content">
           <div className="main">
             <div className="main-inner">
-              {pageLinks}
+              {/*{pageLinks}*/}
+              <div> //TODO Starter Page</div>
             </div>
           </div>
         </div>

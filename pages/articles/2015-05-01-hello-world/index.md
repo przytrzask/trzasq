@@ -1,8 +1,8 @@
----
+<!-----
 title: "The Birth of Movable Type"
 date: "2016-03-01T22:12:03.284Z"
 layout: post
-path: "/hello-world/"
+path: "/hello/"
 category: "Typography TESTS"
 description: "German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible."
 ---
@@ -106,4 +106,4 @@ Printing was also a factor in the Reformation. Martin Luther's 95 Theses were pr
 
 In the decades after Gutenberg, many conservative patrons looked down on cheap printed books; books produced by hand were considered more desirable.
 
-Today there is a large antique market for the earliest printed objects. Books printed prior to 1500 are known as incunabula.
+Today there is a large antique market for the earliest printed objects. Books printed prior to 1500 are known as incunabula.-->
