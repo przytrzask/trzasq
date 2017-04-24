@@ -2,13 +2,13 @@ siteTitle = "Blog by John Doe"
 siteDescr = "Rising front-end developer"
 siteAuthor = "Tomasz Trzaskoma"
 
-siteTelegramUrl = "#"
-siteTwitterUrl = "#"
-siteGithubUrl = "#przytrzask"
-siteEmailUrl = "#"
-siteRssUrl = "#"
-siteVkUrl = "#"
 
-googleAnalyticsId = ""
+siteGithubUrl = "http://github.com/przytrzask"
+siteEmailUrl = "trzaskoma86@gmail.com"
+linkedinUrl = "http://linkedin.com/in/tomasz-trzaskoma-a37557b5/"
 
-linkPrefix = "/trzasq"
+
+
+googleAnalyticsId = "trzasq"
+
+linkPrefix = "./"

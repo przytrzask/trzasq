@@ -9,7 +9,7 @@ import { config } from 'config';
 import SiteSidebar from '../components/SiteSidebar';
 
 class SiteIndex extends React.Component {
-  render() {
+  render() {cd
     const pageLinks = [];
     // Sort pages.
     const sortedPages = sortBy(this.props.route.pages, page => access(page, 'data.date')).reverse();

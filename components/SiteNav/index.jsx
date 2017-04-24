@@ -8,12 +8,12 @@ class SiteNav extends React.Component {
     return (
       <nav className="blog-nav">
         <ul>
-          {/*<li>
-            <Link to={prefixLink('/')} activeClassName="current" onlyActiveOnIndex> Articles
-            </Link>
-          </li>*/}
           <li>
-            <Link to={prefixLink('/about/')} activeClassName="current"> About me
+            <Link to={prefixLink('/')} activeClassName="current" onlyActiveOnIndex> About me
+            </Link>
+          </li>
+          <li>
+            <Link to={prefixLink('/custom/')} activeClassName="current" onlyActiveOnIndex> current
             </Link>
           </li>
           <li>
